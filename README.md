@@ -40,12 +40,9 @@
 
 ## 🏆 Achievements
 
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ustaadkaabax&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ustaadkaabax&theme=tokyonight"/>
 </p>
----
 
 ## 🌐 Connect With Me
 
