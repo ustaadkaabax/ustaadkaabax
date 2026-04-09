@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Abdulkadir Ahmed Kabah**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdulkadir%20Ahmed%20Kabah&fontSize=40&fontAlignY=35&animation=fadeIn" style="background=red" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdulkadir%20Ahmed%20Kabah&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 
 <h1 align="center">💻 Full Stack Developer | 🚀 Passionate Programmer</h1>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ustaadkaabax&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ustaadkaabax&theme=tokyonight" heifht="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ustaadkaabax&theme=tokyonight" heifht="100"/>
 </p>
 ---
 
