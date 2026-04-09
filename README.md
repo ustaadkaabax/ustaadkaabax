@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Abdulkadir Ahmed Kabah**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdulkadir%20Ahmed%20Kabah&fontSize=40&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdulkadir%20Ahmed%20Kabah&fontSize=40&fontAlignY=35&animation=fadeIn" style="background=red" />
 
 <h1 align="center">💻 Full Stack Developer | 🚀 Passionate Programmer</h1>
 
