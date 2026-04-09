@@ -31,9 +31,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ustaadkaabax&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ustaadkaabax&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ustaadkaabax&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ustaadkaabax&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ustaadkaabax&theme=tokyonight"/>
 </p>
 
 ---
