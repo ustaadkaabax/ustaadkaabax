@@ -32,12 +32,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ustaadkaabax&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
+  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ustaadkaabax&theme=tokyonight"/>
 </p>
-
+</p>
 ---
 
 ## 🏆 Achievements
