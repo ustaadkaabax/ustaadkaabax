@@ -30,14 +30,13 @@
 
 ## 📊 GitHub Stats
 
-<p flex">
+
   <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ustaadkaabax&theme=tokyonight" height="180"/>
     </p>
   <p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ustaadkaabax&theme=tokyonight" heifht="100"/>
   </p>
-</p>
 ---
 
 ## 🏆 Achievements
